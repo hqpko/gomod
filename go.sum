@@ -1,0 +1,4 @@
+github.com/hqpko/gosh v0.0.2 h1:I5OQzP8pc3UslKaHJMMCoMnaCRWtmqV2J3T2D5SRWhA=
+github.com/hqpko/gosh v0.0.2/go.mod h1:Bpl/Idz5sy7TcU1nF8GDsgUg2BWaPn3iDM+iMeEvXbw=
+github.com/urfave/cli v1.20.0 h1:fDqGv3UG/4jbVl/QkFwEdddtEDjh/5Ov6X+0B/3bPaw=
+github.com/urfave/cli v1.20.0/go.mod h1:70zkFmudgCuE/ngEzBv17Jvp/497gISqfk5gWijbERA=
