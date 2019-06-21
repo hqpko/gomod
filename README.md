@@ -3,7 +3,7 @@
 ### `gomod tidy`
 
 内置了 `GOPROXY="https://athens.azurefd.net"`，可以默认在 `gomod tidy` 时使用代理（没有设置 `GOPROXY` 的情况下），
-代理相关见 `https://github.com/gomods/athens`
+代理相关见 <https://github.com/gomods/athens>
  
  > 推荐的方式还是直接设置 `export GOPROXY=https://athens.azurefd.net`，使用 `go mod tidy`
  
