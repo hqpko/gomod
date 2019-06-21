@@ -1,5 +1,11 @@
 # gomod
 
+### 安装 
+
+```
+go get -v -u github.com/hqpko/gomod
+```
+
 ### `gomod tidy`
 
 内置了 `GOPROXY="https://athens.azurefd.net"`，可以默认在 `gomod tidy` 时使用代理（没有设置 `GOPROXY` 的情况下），
